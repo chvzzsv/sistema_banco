@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+
+/*************************************************************************************
+<!--FOOTER que yo agregué (pié de página de la vista web)*/
+.container-footer{
+    width: 100%;
+    padding: 40px 0;
+    /*background:darkslategrey;*/
+    margin-top: 40px;
+}
+.container-footer footer{
+    max-width: 1200px;
+    margin: auto;
+}
+.container-footer footer hr{
+    margin-top: 20px;
+    border: none;
+    height: 3px;
+    background: #1c1c1c7a;
+}
+.container-footer h4{
+    text-align: center;
+    margin-top: 15px;
+    color: #242323;
+    font-weight: 100;
+}
+/************************************************************************************/
